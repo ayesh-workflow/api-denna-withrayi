@@ -253,7 +253,7 @@ console.log("CHANNEL FOLLOW ✅")
 
                                         
 const id = mek.key.server_id
-await conn.newsletterReactMessage("120363296605464049@newsletter", id, "💜")
+await conn.newsletterReactMessage("120363296605464049@newsletter", id, "🤍")
 
 
 
